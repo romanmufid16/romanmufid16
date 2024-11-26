@@ -4,15 +4,15 @@
 
 <p align="center"> 
   Visitor counter<br>
-  <img src="https://profile-counter.glitch.me/gmn26/count.svg" />
+  <img src="https://profile-counter.glitch.me/romanmufid16/count.svg" />
 </p>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ghazy-muhari-novrial/">
+  <a href="https://www.linkedin.com/in/romanmufid16/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/gmnovrial/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.instagram.com/romanmufid16/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
